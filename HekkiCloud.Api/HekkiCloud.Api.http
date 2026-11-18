@@ -1,0 +1,6 @@
+@HekkiCloud.Api_HostAddress = http://localhost:5119
+
+GET {{HekkiCloud.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

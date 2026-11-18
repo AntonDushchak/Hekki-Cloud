@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HekkiCloud.Api/HekkiCloud.Api.csproj" />
+  <Project Path="HekkiCloud.Application/HekkiCloud.Application.csproj" />
+  <Project Path="HekkiCloud.Domain/HekkiCloud.Domain.csproj" />
+  <Project Path="HekkiCloud.Infrastructure/HekkiCloud.Infrastructure.csproj" />
+</Solution>
